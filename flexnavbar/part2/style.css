@@ -1,0 +1,20 @@
+div{display: flex;
+background-color: rgb(69, 105, 182);
+justify-content:space-between ;
+align-items:center;
+font-family: 'Montserrat', sans-serif;}
+
+ul{display:flex ;
+align-items:right}
+h1{color:white
+}
+li{color:white ;
+font-family: 'Montserrat', sans-serif;
+display:flex; 
+justify-content: space-between;
+padding: 30px;}
+img{size:75%;
+    border-spacing: 30px;}
+h1{font-size: 20px;}
+img{height: 37px;
+padding: 10px;}

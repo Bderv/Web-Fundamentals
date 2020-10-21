@@ -1,0 +1,31 @@
+body {
+  background-color: cadetblue;
+}
+div {
+  background-color: aquamarine;
+  width: fit-content;
+  margin: 20px auto;
+  padding: 20px;
+}
+#wrapper {
+  background-color: rgb(190, 127, 219);
+  width: fit-content;
+  margin: 20px auto;
+  padding: 20px;
+}
+#paragraph {
+  width: 430px;
+  color: darkblue;
+  background-color: palegoldenrod;
+}
+#angel {
+  transform-box: ;
+}
+#friend {
+  font-style: inherit;
+  background-color: lightpink;
+  border-top-color: plum;
+  display: inline-block;
+}
+table {color: grey;
+background-color: rgb(5, 83, 39);}
